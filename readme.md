@@ -54,3 +54,17 @@ PC端
 
 其它
 ![](docs/md-11.png)
+
+PNG/GIF
+![](docs/xinuoning.png)
+![](docs/xinuoning.gif)
+
+![](docs/qianzhi.png)
+![](docs/qianzhi.gif)
+
+![](docs/naxida.png)
+![](docs/naxida.gif)
+
+![](docs/hutao.png)
+![](docs/hutao.gif)
+
